@@ -7,8 +7,7 @@ Bash script to clean the system, check it for viruses and optimize the system
 To use the script, you can follow these steps:
 
 ```
-cd ~/Documents/
-wget https://github.com/pocket-red-fox/Arch-Linux-Cleanup-Script/blob/main/cleanup.sh
-sudo chmod u+x ./cleanup.sh
-sudo ./cleanup.sh
+cd ~/Documents/ && git clone https://github.com/pocket-red-fox/Arch-Linux-Cleanup-Script.git
+cd ./Arch-Linux-Cleanup-Script
+sudo chmod u+x ./cleanup.sh && ./cleanup.sh
 ```
