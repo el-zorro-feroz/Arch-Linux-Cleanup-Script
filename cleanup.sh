@@ -1,7 +1,7 @@
 # Title: Arch-Linux-Cleanup-Script
 # Author: Savin, V
 # Date: 2023
-# Code version: 1.0.0
+# Code version: 1.0.1
 # Type: source code
 # Web address: https://github.com/pocket-red-fox
 # License: MIT License
