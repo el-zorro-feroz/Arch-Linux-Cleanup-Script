@@ -28,9 +28,6 @@
 
 #!/bin/bash
 
-# Check for errors in the system log
-sudo journalctl -p 3 -xb
-
 # Update the package database and upgrade all installed packages
 sudo pacman -Syu
 
